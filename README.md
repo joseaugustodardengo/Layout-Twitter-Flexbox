@@ -1,4 +1,4 @@
-# Layout-Twitter-Flexbox
+# Layout do Twitter utilizando Flexbox
 Layout do Twitter utilizando Flexbox
 
 ## Tecnologias
